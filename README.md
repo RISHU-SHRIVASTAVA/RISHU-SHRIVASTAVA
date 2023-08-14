@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RISHU-SHRIVASTAVA
-- 👀 I’m interested in Data Analytics,ML,AI,Data Science
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 Skill Set include Java,Spring,Spring Boot,JavaScript,HTML5
 - 📫 How to reach me shrivastava.rishu5@gmail.com
 
 <!---
