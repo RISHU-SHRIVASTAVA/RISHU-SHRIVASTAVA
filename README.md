@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RISHU-SHRIVASTAVA
+- 👋 Hi, I’m @Rishu-Shrivastava
 - 👀 I’m interested in Software Development
 - 🌱 Skill Set include Java,Spring,Spring Boot,JavaScript,HTML5
 - 📫 How to reach me shrivastava.rishu5@gmail.com
